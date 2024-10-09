@@ -1,5 +1,5 @@
 # VISIGODOS
-![visigodos](iso/img/visigodos.img)
+![visigodos](iso/img/visigodos.jpg)
 
 
 Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, se
