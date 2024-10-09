@@ -16,5 +16,3 @@ la Galia y controlaran algunos territorios en Hispania.
 
 ## Referencia
 [National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
-
-# Epoca.md
