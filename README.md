@@ -1,4 +1,6 @@
-# VISIGODOS
+#README.md
+
+# visigodos
 ![visigodos](img/visigodos.jpg)
 
 
