@@ -3,7 +3,7 @@ península aunque hayan sufrido posteriores y variadas restauraciones o solo se
 conserven ruinas de ellos, se reducen a los siguientes:
 La ermita de Santa María, situada en la localidad burgalesa de Quintanilla de las
 Viñas.
-![visigodos](iglesia_san_juan_de_baños_de_cerrato_Palencia.jpg)
+![visigodos](img/iglesia_san_juan_de_baños_de_cerrato_Palencia.jpg)
 
 La iglesia de San Juan, en Baños de Cerrato (Palencia) de tipo basilical latino.
 Las iglesias de San Martín y de Santa Comba de Bande, ambas de Orense y de tipo
